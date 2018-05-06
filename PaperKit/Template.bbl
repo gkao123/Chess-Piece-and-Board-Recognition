@@ -1,0 +1,15 @@
+\begin{thebibliography}{Lon15}
+
+\bibitem[Din15]{chessvision}
+Jialin Ding.
+\newblock {\em ChessVision: Chess Board and Piece Recognition}.
+\newblock
+  https://web.stanford.edu/class/cs231a/prev_projects_2016/CS_231A_Final_Report.pdf,
+  2015.
+
+\bibitem[Lon15]{fcn}
+Jonathan Long.
+\newblock {\em Fully Convolutional Networks for Semantic Segmentation}.
+\newblock https://arxiv.org/pdf/1411.4038.pdf, 2015.
+
+\end{thebibliography}
