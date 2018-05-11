@@ -36,7 +36,7 @@ function cut2pieces2(imgname)
     pointCoor2=[x3,y4];
     dy=diff(y3(1,:));
     dy=mean(dy);
-for num=1:1:64
+for num=1:1:64bc
     temp1=fix(num/8);
     temp2=rem(num,8);
     if temp2==0
